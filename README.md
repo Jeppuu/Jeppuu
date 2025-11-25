@@ -66,7 +66,7 @@ A small project focusing on content layouts, documentation UI, and improving rea
 ## 🤝 Let's Connect
 
 - **Portfolio:** https://jennablomqvist.vercel.app  
-- **LinkedIn:** https://linkedin.com/in/jennablomqvist  
+- **LinkedIn:** https://www.linkedin.com/in/blomqvistj/
 - **GitHub:** you're already here ✨  
 
 ---
